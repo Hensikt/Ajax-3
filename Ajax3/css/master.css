@@ -1,0 +1,30 @@
+/* Generale CSS */
+body{
+  background-color: grey;
+  font-family: arial;
+  text-align: center;
+}
+th{
+  padding: .5em;
+}
+/* ----------------------------------------------------- */
+
+/* Generale Classes */
+.Container {
+  margin: auto;
+  border: solid black 4px;
+  background-color: silver;
+  width: 40em;
+  border-radius: 10px;
+  padding: 20px 0 10px 20px; /* Top, Right, Bottom, Left  */
+}
+
+.Info {
+  margin: auto;
+  border: solid black 4px;
+  background-color: silver;
+  width: 40em;
+  border-radius: 10px;
+  padding: 20px 0 20px 20px; /* Top, Right, Bottom, Left */
+}/* ----------------------------------------------------- */
+/* 27728 Bjorn Emmaneel MD1B*/
